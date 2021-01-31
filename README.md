@@ -8,7 +8,7 @@ Game Jam site: https://globalgamejam.org/
 ## Windows users can download the game Zip file 
 Links:
 > - [Download](https://github.com/KingOKarma/Nosey/releases/download/1.0/WindowsNoEditor.rar)
-> -  You can view the version details [here](https://github.com/KingOKarma/Nosey/releases/download/1.0)
+> -  You can view the version details [here](https://github.com/KingOKarma/Nosey/releases/tag/1.0)
 
 ---
 ### **Developers Notes:**
